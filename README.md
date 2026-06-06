@@ -2,7 +2,7 @@
 
 ## Estudante de Programação | Desenvolvedor Back-End
 
-Sou Arthur Ribeiro, estudante de desenvolvimento de sistema em Recife, com foco em engenharia de software e desenvolvimento backend. Minha rotina de estudos baseia-se na pesquisa teórica e no autodidatismo para construir uma base sólida em arquitetura de sistemas e modelagem de banco de dados. Atualmente, desenvolvo projetos aplicando lógica de servidor com foco em **TypeScript** e **Node.js**.
+Sou Arthur Ribeiro, estudante de desenvolvimento de sistema em Recife  no SENAI e Tascom Academy, com foco em engenharia de software e desenvolvimento backend. Minha rotina de estudos baseia-se na pesquisa teórica e no autodidatismo para construir uma base sólida em arquitetura de sistemas e modelagem de banco de dados. Atualmente, desenvolvo projetos aplicando lógica de servidor com foco em **TypeScript** e **Node.js**.
 
 
 ---
