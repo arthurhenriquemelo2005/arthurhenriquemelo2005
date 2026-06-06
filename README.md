@@ -24,5 +24,5 @@ Olá. Sou Arthur Ribeiro, estudante de desenvolvimento de sistema em Recife, com
 ---
 
 ### 📊 Estatísticas
-
-<img src="https://github-readme-stats.vercel.app/api?username=arthurhenriquemelo2005&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do Arthur" height="150" />
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurhenriquemelo2005&layout=compact&theme=vision-friendly-dark&hide_title=true&langs_count=6&disable_animations=true&line_height=1.5&font_size=13&border_radius=10&v=1" alt="Estatísticas de Linguagens do Arthur" height="200" />
