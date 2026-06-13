@@ -2,20 +2,13 @@
 
 <h3 align="left">Desenvolvedor Back-End | Estudante de Engenharia de Software</h3>
 
-<p align="left">
-  <a href="https://github.com/SeuUsuario">
-    <img src="https://komarev.com/ghpvc/?username=SeuUsuario&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 Sobre Mim
 
 Olá, sou Arthur Ribeiro, estudante de Desenvolvimento de Sistemas em Recife no SENAI e na Tascom Academy, com foco em engenharia de software e desenvolvimento backend. Minha rotina de estudos baseia-se na pesquisa teórica e no autodidatismo para construir uma base sólida em arquitetura de sistemas e modelagem de banco de dados. Atualmente, desenvolvo projetos utilizando *TypeScript, **Node.js* e estou aprofundando meus conhecimentos em *C#* e na plataforma *.NET*.
 
-* 📖 **Metodologia:** Acredito no autodidatismo e na pesquisa profunda. Gosto de mergulhar na teoria para entender os fundamentos reais das ferramentas antes de aplicar a sintaxe na prática.
-* 🎯 **Foco Atual:** Aprofundando conhecimentos em **C#** e no ecossistema **.NET**, além de modelagem avançada de banco de dados.
+
 
 ---
 
