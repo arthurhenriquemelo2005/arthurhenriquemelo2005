@@ -43,7 +43,6 @@ Sou estudante de Desenvolvimento de Sistemas no **SENAI** e na **Tascom Academy*
 
 <p align="left">
  
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurhenriquemelo2005&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do Arthur" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhenriquemelo2005&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" height="150"/>
 </p>
 
