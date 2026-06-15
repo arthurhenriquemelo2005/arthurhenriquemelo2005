@@ -1,12 +1,12 @@
 # 🥋 Arthur Ribeiro
 
-<h3 align="left">Desenvolvedor Back-End | Estudante de Engenharia de Software</h3>
+<h3 align="left">Desenvolvedor Back-End | Estudante de Desenvolvimento de Sistemas</h3>
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Olá, sou Arthur Ribeiro, estudante de Desenvolvimento de Sistemas em Recife no SENAI e na Tascom Academy, com foco em engenharia de software e desenvolvimento backend. Minha rotina de estudos baseia-se na pesquisa teórica e no autodidatismo para construir uma base sólida em arquitetura de sistemas e modelagem de banco de dados. Atualmente, desenvolvo projetos utilizando *TypeScript, **Node.js* e estou aprofundando meus conhecimentos em *C#* e na plataforma *.NET*.
+Olá, sou Arthur Ribeiro, estudante de Desenvolvimento de Sistemas em Recife no SENAI e na Tascom Academy, com foco em engenharia de software e desenvolvimento backend. Minha rotina de estudos baseia-se na pesquisa teórica e no autodidatismo para construir uma base sólida em arquitetura de sistemas e modelagem de banco de dados. Atualmente, desenvolvo projetos utilizando *TypeScript*, *Node.js* e estou aprofundando meus conhecimentos em *C#* e na plataforma *.NET*.
 
 
 
