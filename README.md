@@ -31,12 +31,3 @@ Olá, sou Arthur Ribeiro, estudante de Desenvolvimento de Sistemas em Recife no 
 </p>
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhenriquemelo2005&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" height="150"/>
-</p>
-
----
