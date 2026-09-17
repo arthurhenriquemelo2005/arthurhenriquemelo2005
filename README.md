@@ -6,9 +6,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Olá, sou Arthur Ribeiro, estudante de Desenvolvimento de Sistemas em Recife no SENAI e na Tascom Academy, com foco em engenharia de software e desenvolvimento backend. Minha rotina de estudos baseia-se na pesquisa teórica e no autodidatismo para construir uma base sólida em arquitetura de sistemas e modelagem de banco de dados. Atualmente, desenvolvo projetos utilizando *TypeScript*, *Node.js* e estou aprofundando meus conhecimentos em *C#* e na plataforma *.NET*.
-
-
+Olá, sou Arthur Ribeiro, estudante de Desenvolvimento de Sistemas em Recife no SENAI e na Tascom Academy, com foco em engenharia de software e desenvolvimento backend. Minha rotina de estudos baseia-se na pesquisa teórica e no autodidatismo para construir uma base sólida em arquitetura de sistemas e modelagem de banco de dados. Atualmente, desenvolvo projetos utilizando *TypeScript*, *Node.js*, *PHP* e estou aprofundando meus conhecimentos em *C#* e na plataforma *.NET*.
 
 ---
 
@@ -16,6 +14,7 @@ Olá, sou Arthur Ribeiro, estudante de Desenvolvimento de Sistemas em Recife no 
 
 ### Back-End & Dados
 <p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
